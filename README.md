@@ -1,9 +1,9 @@
-<!-- # one-page-website-html-css-project-for-practice
-## Watch The Complete Tutorial : https://youtu.be/ZFQkb26UD1Y
+# abd-elrahman-be-portfolio BE
+## go to website [abd-elrahman-be-portfolio BE]( https://abd-elrahman-be-portfolio.herokuapp.com/)
+<b>coded by [Boody-BE](https://github.com/Boody2004/week-days)</b>
 
-This project is for html &amp; css practice. We made this for youtube tutorial purpose.
-<b>coded by [Shaif Arfan](https://github.com/shaifarfan)</b>
-### 👍 HAVE FUN 👍
-Thanks, Arfan
+**HAVE FUN 👌**
+**Thanks, Abdelrahman-BE**
 
-![Watch Now](./img/Design.jpg) -->
+---
+![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
